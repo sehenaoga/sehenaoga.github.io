@@ -3,12 +3,58 @@
 
 @import "jekyll-theme-minimal";
 
-header_small { width: 200px; float: left; position: absolute; left: 325px; top: 52px; -webkit-font-smoothing: subpixel-antialiased; }
+.header_small {
+	position: relative;
+	float: none; 
+	width: 20%;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
 
-.wrapper_wide { width: 860px; margin: 0 auto; }
+.wrapper_wide { 
+	width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-flow: wrap;
+}
 
-section_wide { width: 800px; float: right; padding-bottom: 50px; }
+.section_wide { width: 73%; float: right; padding-bottom: 50px; }
 
-@media print, screen and (max-width: 960px) { div.wrapper_wide { width: auto; margin: 0; } header_small, section_wide, footer { float: none; position: static; width: auto; } header { padding-right: 320px; } section_wide { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header ul { position: absolute; right: 50px; top: 52px; } }
+@media print, screen and (max-width: 960px) { 
+	div.wrapper_wide { 
+		width: auto; margin: 0;
+	} 
+	.section_wide, footer { 
+		float: none; position: static; width: auto;
+	} 
+
+	header, .header_small {
+		padding-right: 0;
+		width: 60%;
+		margin: auto;
+	} 
+
+	.section_wide { 
+		border: 1px solid #e5e5e5;
+		border-width: 1px 0;
+		padding: 20px 0; margin: 0 0 20px;
+	} 
+
+	header a small { display: inline; } 
+
+	header ul { position: absolute; right: 50px; top: 52px; } 
+}
+
+@media print, screen and (max-width: 720px) {
+
+}
+
+@media print, screen and (max-width: 480px) {
+ 
+}
+
+
 
 

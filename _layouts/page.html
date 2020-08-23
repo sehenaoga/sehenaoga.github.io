@@ -13,12 +13,13 @@
   </head>
   <body>
     <div class="wrapper_wide">
-      <header_small>
-        <h1><a href="{{ "/" | absolute_url }}">Sebastian <br> Henao Garcia</a></h1>
+      <header class="header_small">
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+
+        <h1 style="margin-top: 16px"><a href="{{ "/" | absolute_url }}">Sebastian <br> Henao Garcia</a></h1>
 
         <!---
         <p>{{ site.description}}</p>
@@ -34,7 +35,7 @@
 
         <p>Computational modeling, wind energy, and sustaniability enthusiast</p>
 
-        <p><i>seh159 [at] pitt [dot] edu </i></p>
+        <p><img src="/assets/icons/email.png" alt="Email: " style="width:24px;height:16px;border:0;"><a href="mailto:seh159@pitt.edu"><i> seh159 [at] pitt [dot] edu </i></p>
 
         <a href="https://www.linkedin.com/in/sebastian-henao/">
             <img src="/assets/icons/linkedin.png" alt="Linkedin" style="width:30px;height:30px;border:0;">
@@ -47,13 +48,13 @@
         </a>
 
 
-      </header_small>
+      </header>
 
-      <section_wide>
+      <section class="section_wide">
 
       {{ content }}
 
-      </section_wide>
+      </section>
      
     <!--  
       <footer>
