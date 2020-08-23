@@ -22,6 +22,12 @@
 
 .section_wide { width: 73%; float: right; padding-bottom: 50px; }
 
+@media print, screen and (max-width: 1080px) { 
+	header, .header_small {
+		width: 20%;
+	} 
+}
+
 @media print, screen and (max-width: 960px) { 
 	div.wrapper_wide { 
 		width: auto; margin: 0;
