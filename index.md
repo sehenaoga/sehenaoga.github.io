@@ -2,122 +2,54 @@
 layout: home
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+> #### Hola! Hi! Ciao! 
+> I'm an aspiring PhD student and this is a space for me to post cool images about my research. I'm currently finishing my Masters degree at the University of Pittsburgh, where I study the intersection between Mechanical Engineering and Computer Science through the solution of complex fluid flow problems using high-performance computing resources. Welcome aboard!
 
 * * *
 
-### Here is an unordered list:
+# Bio
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High-performance Computing to advance in human understanding of the nature of fluid motion.
 
-### And an ordered list:
+## Interests
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+*   **Data-driven physics:** Deducing cool equations from observations of the nature of the world
+*   **Fluid motion:** Understaning the details of fluid motion under many conditions and scales
+*   **Computer simulations:** Using computers to make accurate predictictions about the behavior of nature
+*   **Sustainability:** Leveraging all the tools above for preserving nature
 
-### And a nested list:
+## Education
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- **M.Sc. in Computational Modeling and Simulation**
+  - [Univeristy of Pittsburgh](https://www.pitt.edu/){:target="_blank"}, _2019-2021_
+- **B.Sc. in Mechanical Engineering**
+  - [Universidad Nacional de Colombia](https://medellin.unal.edu.co/){:target="_blank"}, _2012-2018_
 
-### Small image
+* * *
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+# Research
 
-### Large image
+## [Oscillations in Katabatic Flows](./katabatic.htlm)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Imagine a [large ice sheet in the north pole](https://youtu.be/q8BQL3sx4XI){:target="_blank"}. After the sun sets, the ice sheet's surface is warmer than the atmosphere above, then the surface starts heating the air right on top of it, causing the warmer air to move up while the colder and therefore heavier air away from the surface moves down. Now, imagine the ice sheet has a slope and we'll see a strong jet of cold air flowing down, causing what is known in Greek as κατάβασις, pronounced as katabatic and meaning descending. The [katabatic flow](https://en.wikipedia.org/wiki/Katabatic_wind){:target="_blank"} phenomenon is also observed in a wide range of scenarios, and surprisingly air can do a lot of fun things while moving in such way. [Click here to find out more](./katabatic.html). 
 
 
-### Definition lists can be used with HTML syntax.
+## [Wind Turbine Aerodynamic Simulations](./wind_turbines.html)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Wind energy generation has recently gained a lot of popularity as an alternative source of large-scale electricity generation, but we still need to work harder to make them a more reliable power generation source. Advances on computational resources have provided great tools for aiding the design of wind turbines, opening the door to validating many design configurations inexpensively using computers. These computational tools, however, are still under development and require to validate their accuracy for predicting the airflow around wind turbines under several configurations, especiallu regarding the current trend of making bigger rotors that are placed higher away from the ground. Do you think we can propose new designs that are more efficient than the [standard three-bladed model](https://flic.kr/p/aa1uWJ){:target="_blank"}? Well, I've been intrigued by that question lately and [here is what I've learned so far](./wind_turbines.html).
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+
+* * *
+
+# Cool projects
+
+## Project 1
+
+Description
+
+
+* * *
+
+> Thanks for reaching the bottom!
