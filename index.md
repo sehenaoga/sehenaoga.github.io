@@ -45,9 +45,12 @@ Wind energy generation has recently gained a lot of popularity as an alternative
 
 # Cool projects
 
-## Project 1
+- ### [GPU vs CPU for vector operations](./projects/GPU_vs_CPU.html)
+- ### [Solving the Navier-Stokes equations through vorticity-stream function formulation](./projects/NS_vorticity.html)
+- ### [Numerical stability of several discretization schemes for the linear Burger's equation](./projects/Stability_Burgers.html)
+- ### [Reduced order model of flow over a cylinder](./projects/ROM_cylinder.html)
 
-Description
+
 
 
 * * *
