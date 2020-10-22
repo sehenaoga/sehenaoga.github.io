@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Test2
-date: 2020-05-20
-author: Sebastian Henao
+title: Wind turbines
 ---
 
 # Wind Turbine Aerodynamic Simulations
