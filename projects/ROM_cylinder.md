@@ -11,7 +11,7 @@ author: Sebastian Henao
 
 Then we can put all these snapshots together into a dataset defined by a matrix. This matrix can then be decomposed by means of the Proper Orthogonal Decomposition (POD), which extracts different structures governing the flow field in time, called POD modes, and sorts them according to their energy content, defyning energy as the amount of information from the flow field contained into each mode. The figure below shows the six most energetic modes contained in the time series of the vertical velocity component of a particular solution for the flow over a cylinder problem.
 
-<img src="ROM_cylinder/modes.png" alt="modes.png" width="80%" class="center"/>
+<img src="ROM_cylinder/modes.png" alt="modes.png" width="100%" class="center"/>
 
 Then, after we have decomposed the dataset, we can select the first $r$ POD modes to do some cool computations, such as reconstructing the original solution but discarding any information contained after the eight POD mode:
 

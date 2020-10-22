@@ -3,7 +3,7 @@ layout: home
 ---
 
 > #### Hola! Hi! Ciao! 
-> I'm an aspiring PhD student and this is my little corner on the internet to post cool images about my research. I'm currently finishing my Masters degree at the University of Pittsburgh, where I study the intersection between Mechanical Engineering and Computer Science through the solution of complex fluid flow problems using high-performance computing resources. Welcome aboard!
+> I'm an aspiring PhD student and this is my little corner on the internet to post cool images about my research. I'm currently finishing my Master's degree at the University of Pittsburgh, where I study the intersection between Mechanical Engineering and Computer Science through the solution of complex fluid flow problems using high-performance computing resources. Welcome aboard!
 
 * * *
 
