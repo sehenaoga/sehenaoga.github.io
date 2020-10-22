@@ -5,7 +5,7 @@ date: 2020-04-24
 author: Sebastian Henao
 ---
 
- The characteristics of the fluid flow within the region enclosed by the top and bottom walls shown in the figure below need to be computed. How? Well, 
+ The characteristics of the fluid flow within the region enclosed by the top and bottom walls shown in the figure below need to be computed. 
 
  [Click here](https://drive.google.com/file/d/1I7gCmSa_8qfnW2QWEyRHudK5kmpFJgJL/view?usp=sharing){:target="_blank"} to see the full project report.
 
@@ -27,7 +27,7 @@ $$
 
 $$
 \begin{equation}
-    \frac{D\omega}{D t} = \frac{\partial \omega}{\partial t} + \frac{\partial \psi}{\partial y}\frac{\partial \omega}{\partial x} - \frac{\partial \psi}{\partial x}\frac{\partial \omega}{\partial y} =  \nu \nabla^2\omega \ \ \ \ \text{(Vorticity-stream function formulation)}
+    \frac{D\omega}{D t} = \frac{\partial \omega}{\partial t} + \frac{\partial \psi}{\partial y}\frac{\partial \omega}{\partial x} - \frac{\partial \psi}{\partial x}\frac{\partial \omega}{\partial y} =  \nu \nabla^2\omega \ \ \ \ \text{(Vorticity equation)}
     \label{Vorticity_momentum} 
 \end{equation}
 $$
