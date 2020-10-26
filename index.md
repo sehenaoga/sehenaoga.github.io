@@ -13,7 +13,7 @@ layout: home
 
 ## Interests
 
-*   **Data-driven physics:** Deducing cool equations from observations of the nature of the world
+*   **Data-driven physics:** Deducing cool equations and making predictions from observations of the nature of the world
 *   **Fluid motion:** Describing the characteristics of fluids moving under many conditions and scales
 *   **Computer simulations:** Using computers to make accurate predictictions about the behavior of nature
 *   **Sustainability:** Leveraging all the tools above for preserving nature
@@ -31,7 +31,7 @@ layout: home
 
 ## [Oscillations in Katabatic Flows](./katabatic.html)
 
- Katabatic means descending in Greek and when combined with the word Flow means _air flowing down a slope and moving in funny ways that not yet fully understood_. Especially, there is a major interest in understanding the oscillations the airflow describes along its way. [Click here to find out more](./katabatic.html). 
+ Katabatic means descending in Greek and when combined with the word Flow it means _air flowing down a slope and moving in funny ways that are not yet fully understood_. Currently, there is a major interest in understanding the oscillations the airflow describes along its way. [Click here to find out more](./katabatic.html). 
 
 
 ## [Wind Turbine Aerodynamic Simulations](./wind_turbines.html)
