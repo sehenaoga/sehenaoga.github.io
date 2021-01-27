@@ -38,9 +38,6 @@ layout: home
 
  Do you think we can propose new designs that are more efficient than the [standard three-bladed wind turbine model](https://flic.kr/p/aa1uWJ){:target="_blank"}? Well, I've been intrigued by that question lately and [here's what I've learned so far](./wind_turbines.html) while using computers to predict the aerodynamic performance of alternative wind turbine designs.
 
-
-
-
 * * *
 
 # Cool projects
@@ -49,8 +46,13 @@ layout: home
 - ### [Numerical stability of several discretization schemes for the linear Burger's equation](./projects/Stability_Burgers.html)
 - ### [Reduced order model of flow over a cylinder](./projects/ROM_cylinder.html)
 
+* * *
 
+* * *
 
+# News
+
+- One of the papers I contributed to was recently published at ASME's Journal of Fluids Engineering! [\[Read more\]](https://doi.org/10.1115/1.4049682){:target="_blank"} 
 
 * * *
 
