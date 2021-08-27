@@ -20,7 +20,7 @@ layout: home
 
 ## Education
 
-- **Ph.D. in Computational Science, Engineering, and Mathematics**
+- **Ph.D. in Computational Science, Engineering & Mathematics**
   - [Oden Institute for Computational Engineering and Sciences
      Univeristy of Texas at Austin](https://www.oden.utexas.edu/){:target="_blank"}, _2021-_
 - **M.Sc. in Computational Modeling and Simulation**
