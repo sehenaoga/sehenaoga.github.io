@@ -20,8 +20,9 @@ layout: home
 
 ## Education
 
-- **PhD. in Computational Science, Engineering, and Mathematics**
-  - [Oden Institute for Computational Engineering and Sciences - Univeristy of Texas at Austin](https://www.oden.utexas.edu/){:target="_blank"}, _2021-_
+- **Ph.D. in Computational Science, Engineering, and Mathematics**
+  - [Oden Institute for Computational Engineering and Sciences
+     Univeristy of Texas at Austin](https://www.oden.utexas.edu/){:target="_blank"}, _2021-_
 - **M.Sc. in Computational Modeling and Simulation**
   - [Univeristy of Pittsburgh](https://www.pitt.edu/){:target="_blank"}, _2019-2021_
 - **B.Sc. in Mechanical Engineering**
