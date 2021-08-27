@@ -3,13 +3,13 @@ layout: home
 ---
 
 > #### Hola! Hi! Ciao! 
-> I'm an aspiring PhD student and this is my little corner on the internet to post cool images about my research. I'm currently finishing my Master's degree at the University of Pittsburgh, where I study the intersection between Mechanical Engineering and Computer Science through the solution of complex fluid flow problems using high-performance computing resources. Welcome aboard!
+> I'm a PhD student and this is my little corner on the internet to post cool images about my research. I recently joined the Oden Institute at the University of Texas at Austin, where I'll be exploring how advanced tools from computational science and applied mathematics contribute to improve the engineering models we use to describe the world around us. Welcome aboard!
 
 * * *
 
 # Bio
 
- I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High-performance Computing to advance in human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1xo3hGSOiF1TlF06tmNUMxDqxj7R4HhDQ/view?usp=sharing){:target="_blank"}
+ I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High Performance Computing to advance in human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1xo3hGSOiF1TlF06tmNUMxDqxj7R4HhDQ/view?usp=sharing){:target="_blank"}
 
 ## Interests
 
@@ -20,6 +20,8 @@ layout: home
 
 ## Education
 
+- **PhD. in Computational Science, Engineering, and Mathematics**
+  - [Oden Institute for Computational Engineering and Sciences - Univeristy of Texas at Austin](https://www.oden.utexas.edu/){:target="_blank"}, _2021-_
 - **M.Sc. in Computational Modeling and Simulation**
   - [Univeristy of Pittsburgh](https://www.pitt.edu/){:target="_blank"}, _2019-2021_
 - **B.Sc. in Mechanical Engineering**
