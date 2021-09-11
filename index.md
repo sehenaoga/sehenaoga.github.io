@@ -9,7 +9,7 @@ layout: home
 
 # Bio
 
- I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High Performance Computing to advance in human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1xo3hGSOiF1TlF06tmNUMxDqxj7R4HhDQ/view?usp=sharing){:target="_blank"}
+ I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High Performance Computing to advance in human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1BuGtbgtLP3Xh1jzGyt0Wtes0xy3AaifD/view?usp=sharing){:target="_blank"}
 
 ## Interests
 
@@ -54,6 +54,8 @@ layout: home
 * * *
 
 # News
+
+- I successfully defended my M.Sc thesis at the University of Pittsburgh on July 2021! [\[Read more\]](http://d-scholarship.pitt.edu/41480/){:target="_blank"} 
 
 - One of the papers I contributed to was recently published at ASME's Journal of Fluids Engineering! [\[Read more\]](https://doi.org/10.1115/1.4049682){:target="_blank"} 
 
