@@ -9,7 +9,7 @@ layout: home
 
 # Bio
 
- I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High Performance Computing to advance in human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1BuGtbgtLP3Xh1jzGyt0Wtes0xy3AaifD/view?usp=sharing){:target="_blank"}
+ I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High Performance Computing to advance human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1BuGtbgtLP3Xh1jzGyt0Wtes0xy3AaifD/view?usp=sharing){:target="_blank"}
 
 ## Interests
 
@@ -21,8 +21,8 @@ layout: home
 ## Education
 
 - **Ph.D. in Computational Science, Engineering & Mathematics**
-  - [Oden Institute for Computational Engineering and Sciences
-     Univeristy of Texas at Austin](https://www.oden.utexas.edu/){:target="_blank"}, _2021-_
+  - [Oden Institute for Computational Engineering and Sciences | 
+     Univeristy of Texas at Austin](https://www.oden.utexas.edu/){:target="_blank"}, _2021-present_
 - **M.Sc. in Computational Modeling and Simulation**
   - [Univeristy of Pittsburgh](https://www.pitt.edu/){:target="_blank"}, _2019-2021_
 - **B.Sc. in Mechanical Engineering**
