@@ -2,14 +2,14 @@
 layout: home
 ---
 
-> #### Hola! Hi! Ciao! 
+> #### Hola! Hi! Ciao!
 > I'm a PhD student and this is my little corner on the internet to post cool images about my research. I recently joined the Oden Institute at the University of Texas at Austin, where I'll be exploring how advanced tools from computational science and applied mathematics contribute to improve the engineering models we use to describe the world around us. Welcome aboard!
 
 * * *
 
 # Bio
 
- I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High Performance Computing to advance human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1BuGtbgtLP3Xh1jzGyt0Wtes0xy3AaifD/view?usp=sharing){:target="_blank"}
+ I'm a Mechanical Engineer with a vast understanding of Scientific Computing applied to Fluid Mechanics problems in the fields of Wind Turbine Aerodynamics and Atmospheric Flows. I'm a highly-motivated professional interested in leveraging Data-driven Physics and High Performance Computing to advance human understanding of the nature of fluid motion. [\[CV\]](https://drive.google.com/file/d/1xj8CBbW__jiVy1sl54AtcvvwqdjJZ9wr/view?usp=sharing){:target="_blank"}
 
 ## Interests
 
