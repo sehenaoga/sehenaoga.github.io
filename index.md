@@ -9,7 +9,7 @@ layout: home
 
 # Bio
 
- I am a computational scientist interested in exploring the connecting threads among applied mathematics, computer simulations, and engineering applications. My ultimate goal is to contribute to advancing our understanding of nature through scientific computing! Currently, I am working on exploring applications for digital twins in space, and in the past, I have used computational fluid dynamics to study atmospheric flows and wind turbine aerodynamics. You can find my [\[CV\]](https://drive.google.com/file/d/1VKT_visrti4Hd8m5nOLNiKYmU601JtfO/view?usp=sharing){:target="_blank"} here, and please reach out if you want to collaborate! 
+ I am a computational scientist interested in exploring the connecting threads among applied mathematics, computer simulations, and engineering applications. My ultimate goal is to contribute to advancing our understanding of nature through scientific computing! Currently, I am working on exploring applications for digital twins in space, and in the past, I have used computational fluid dynamics to study atmospheric flows and wind turbine aerodynamics. You can find my [CV](https://drive.google.com/file/d/1VKT_visrti4Hd8m5nOLNiKYmU601JtfO/view?usp=sharing){:target="_blank"} here, and please reach out if you want to collaborate! 
 
 ## Interests
 
@@ -27,8 +27,6 @@ layout: home
 - **DevOps Engineer**
   - [Pragma](https://www.pragma.co/){:target="_blank"}\
     _Medellin, Colombia. 2018-2019_
-
-* * *
 
 ## Education
 
