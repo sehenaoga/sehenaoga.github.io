@@ -9,7 +9,7 @@ layout: home
 
 # Bio
 
- I am a computational scientist interested in exploring the connecting threads among applied mathematics, computer simulations, and engineering applications, and I want to contribute to advancing our understanding of nature through scientific computing! I am currently working on exploring applications for digital twins in space, and in the past I have used computational fluid dynamics to study atmospheric flows and wind turbine aerodynamics. You can find my [\[CV\]](https://drive.google.com/file/d/1VKT_visrti4Hd8m5nOLNiKYmU601JtfO/view?usp=sharing){:target="_blank"} here, and please reach out if you want to collaborate! 
+ I am a computational scientist interested in exploring the connecting threads among applied mathematics, computer simulations, and engineering applications. My ultimate goal is to contribute to advancing our understanding of nature through scientific computing! Currently, I am working on exploring applications for digital twins in space, and in the past, I have used computational fluid dynamics to study atmospheric flows and wind turbine aerodynamics. You can find my [\[CV\]](https://drive.google.com/file/d/1VKT_visrti4Hd8m5nOLNiKYmU601JtfO/view?usp=sharing){:target="_blank"} here, and please reach out if you want to collaborate! 
 
 ## Interests
 
@@ -21,11 +21,11 @@ layout: home
 ## Experience
 
 - **Visiting Research Assistant**
-  - [Mars Sample Return Mission (_MSR_)](https://mars.nasa.gov/msr/){:target="_blank"}
-    [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard){:target="_blank"}
-    _Greenbel, MD. Summer 2023_
+  - [Mars Sample Return Mission (_MSR_)](https://mars.nasa.gov/msr/){:target="_blank"}\
+    [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard){:target="_blank"}\
+    _Greenbelt, MD. Summer 2023_
 - **DevOps Engineer**
-  - [Pragma](https://www.pragma.co/){:target="_blank"}
+  - [Pragma](https://www.pragma.co/){:target="_blank"}\
     _Medellin, Colombia. 2018-2019_
 
 * * *
@@ -33,7 +33,7 @@ layout: home
 ## Education
 
 - **Ph.D. in Computational Science, Engineering & Mathematics**
-  - [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/){:target="_blank"}
+  - [Oden Institute for Computational Engineering and Sciences](https://www.oden.utexas.edu/){:target="_blank"}\
     [Univeristy of Texas at Austin](https://www.oden.utexas.edu/){:target="_blank"}, _2021-present_
 - **M.Sc. in Computational Modeling and Simulation**
   - [Univeristy of Pittsburgh](https://www.pitt.edu/){:target="_blank"}, _2019-2021_
@@ -73,5 +73,3 @@ layout: home
 - One of the papers I contributed to about Wind Turbine simulations was recently published at ASME's Journal of Fluids Engineering! [\[Read more\]](https://doi.org/10.1115/1.4049682){:target="_blank"} 
 
 * * *
-
-//> Thanks for reaching the bottom!
