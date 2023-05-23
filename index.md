@@ -44,7 +44,7 @@ layout: home
 
 # Research
 
-## [Digital Twins for Space Systems]
+## Digital Twins for Space Systems
  We seek to build build digital twins of systems that live in space through a formal mathematical representation of the relationship between the digital twin and its corresponding physical asset. The overall goal is for the digital twin to inform decisions that realize value in the space system, such as maximizing mission success, minimizing fuel consumtion, and maximizing manuevering precission. [Click here to learn more](https://youtu.be/AzfMLYw_-Ps?t=766){:target="_blank"}
 
 
@@ -59,18 +59,8 @@ layout: home
 
 * * *
 
-//# Cool projects
 
-//- ### [Solving the Navier-Stokes equations through vorticity-stream function formulation](./projects/NS_vorticity.html)
-//- ### [Numerical stability of several discretization schemes for the linear Burger's equation](./projects/Stability_Burgers.html)
-//- ### [Reduced order model of flow over a cylinder](./projects/ROM_cylinder.html)
-
-//* * *
-
-//* * *
-
-
-//# News
+# News
 
 - I joined the [Mars Sample Return](https://www.youtube.com/watch?v=t9G36CDLzIg){:target="_blank"} mission team at NASA in May 2023 as a visiting researcher during the Summer!!
 
@@ -82,6 +72,6 @@ layout: home
 
 - One of the papers I contributed to about Wind Turbine simulations was recently published at ASME's Journal of Fluids Engineering! [\[Read more\]](https://doi.org/10.1115/1.4049682){:target="_blank"} 
 
-//* * *
+* * *
 
 //> Thanks for reaching the bottom!
