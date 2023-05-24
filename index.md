@@ -13,9 +13,9 @@ layout: home
 
 ## Interests
 
-*   **Uncertainty quantification:** Integrating the probabilistic nature of life into the scientidc and engineering systems we know so well. 
+*   **Uncertainty quantification:** Integrating the probabilistic nature of life into the scientific and engineering systems we know so well. 
 *   **Reduced order modeling:** Building simplified models to represent nature that are both accurate and fast to evaluate.
-*   **Digital Twins:** Incorporate digital replicas of physical systems into the decision-making loop aiming bring the system to an optimal state through the continuous integration of data and models. 
+*   **Digital Twins:** Incorporate digital replicas of physical systems into the decision-making loop aiming to bring the system to an optimal state through the continuous integration of data and models. 
 *   **Sustainability:** Leveraging all the tools above for a sustainable use of nature on this earth and beyond. 
 
 ## Experience
