@@ -9,7 +9,7 @@ layout: home
 
 # Bio
 
- I am a computational scientist interested in exploring the connecting threads among applied mathematics, computer simulations, and engineering applications. My ultimate goal is to contribute to advancing our understanding of nature through scientific computing! Currently, I am working on exploring applications for digital twins in space, and in the past, I have used computational fluid dynamics to study atmospheric flows and wind turbine aerodynamics. You can find my [CV](https://drive.google.com/file/d/1VKT_visrti4Hd8m5nOLNiKYmU601JtfO/view?usp=sharing){:target="_blank"} here, and please reach out if you want to collaborate! 
+ I am a computational scientist interested in exploring the connecting threads among applied mathematics, computer simulations, and engineering applications. My ultimate goal is to contribute to advancing our understanding of nature through scientific computing. Currently, I am working on exploring applications for digital twins in space, and in the past, I have used computational fluid dynamics to study atmospheric flows and wind turbine aerodynamics. You can find my [CV](https://drive.google.com/file/d/1VKT_visrti4Hd8m5nOLNiKYmU601JtfO/view?usp=sharing){:target="_blank"} here, and please reach out if you want to collaborate! 
 
 ## Interests
 
@@ -43,7 +43,7 @@ layout: home
 # Research
 
 ## Digital Twins for Space Systems
- We seek to build build digital twins of systems that live in space through a formal mathematical representation of the relationship between the digital twin and its corresponding physical asset. The overall goal is for the digital twin to inform decisions that realize value in the space system, such as maximizing mission success, minimizing fuel consumtion, and maximizing manuevering precission. [Click here to learn more](https://youtu.be/AzfMLYw_-Ps?t=766){:target="_blank"}
+ We seek to build build digital twins of systems that live in space through a formal mathematical representation of the relationship between the digital twin and its corresponding physical asset. The overall goal is for the digital twin to inform decisions that realize value in the space system, such as maximizing mission success, minimizing fuel consumption, and maximizing maneuvering precision. [Click here to learn more](https://youtu.be/AzfMLYw_-Ps?t=766){:target="_blank"}
 
 
 ## Oscillations in Katabatic Flows
